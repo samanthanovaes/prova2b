@@ -1,0 +1,17 @@
+C:\Users\saman\source\repos\prova2b\prova2b\bin\Debug\net6.0-windows\prova2b.exe
+C:\Users\saman\source\repos\prova2b\prova2b\bin\Debug\net6.0-windows\prova2b.deps.json
+C:\Users\saman\source\repos\prova2b\prova2b\bin\Debug\net6.0-windows\prova2b.runtimeconfig.json
+C:\Users\saman\source\repos\prova2b\prova2b\bin\Debug\net6.0-windows\prova2b.dll
+C:\Users\saman\source\repos\prova2b\prova2b\bin\Debug\net6.0-windows\prova2b.pdb
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.csproj.AssemblyReference.cache
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.Form1.resources
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.csproj.GenerateResource.cache
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.AssemblyInfoInputs.cache
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.AssemblyInfo.cs
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.csproj.CoreCompileInputs.cache
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.dll
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\refint\prova2b.dll
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.pdb
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\prova2b.genruntimeconfig.cache
+C:\Users\saman\source\repos\prova2b\prova2b\obj\Debug\net6.0-windows\ref\prova2b.dll
