@@ -50,7 +50,7 @@ namespace prova2b
                     teste += teste * (5 / 100);
                     label11.Text = Convert.ToString(teste);
                 }
-                
+                //nnnn
             }
             label11.Text = Convert.ToString(c.CalculaTudo(valor, pis, icms, confins, lucro));
             
