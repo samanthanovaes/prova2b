@@ -34,8 +34,8 @@ namespace prova2b
             double lucro = Convert.ToDouble(tx_box5.Text);
             double pis = Convert.ToDouble(tx_box6.Text);
             double confins = Convert.ToDouble(tx_box7.Text);
-            string unidade = Convert.ToString(label11.Text);
-            MessageBox.Show(unidade);
+            string unidade = Convert.ToString(cb_8.Text);
+            
 
             Cadastro c = new Cadastro(valor, icms, lucro, pis, confins);
             double teste = c.CalculaTudo(valor, pis, icms, confins, lucro);
@@ -46,14 +46,21 @@ namespace prova2b
             {
                 if (unidade == "LT" || unidade == "KL")
                 {
-
-                    teste += teste * (5 / 100);
-                    label11.Text = Convert.ToString(teste);
+                    
+                    double teste4 = teste * (5 / 100);
+                    
+                    
+                    label11.Text = Convert.ToString(c.CalculaTudo(valor, pis, icms, confins, lucro) + teste4);
                 }
+                
+                    
+                
+                
+                
                 //nnnn
             }
             label11.Text = Convert.ToString(c.CalculaTudo(valor, pis, icms, confins, lucro));
-            
+
         }
 
         private void label11_Click(object sender, EventArgs e)

@@ -15,11 +15,13 @@
     }
     public double CalculaTudo(double valor, double pis, double icms, double confins, double lucro)
     {
-
-        valor += valor * (pis / 100);
-        valor += valor * (icms / 100);
-        valor += valor * (confins / 100);
-        valor += valor * (lucro / 100);
+        double lucro2 = 0;
+        pis = valor * (pis / 100);
+        icms = valor * (icms / 100);
+        confins = valor * (confins / 100);
+        valor = valor + pis + icms + confins;
+        lucro2 = valor * (lucro / 100);
+        valor += lucro2;
         return valor;
 
     }
